@@ -1,0 +1,15 @@
+C:\Users\CASPER\Desktop\CakaboStore\CakaboStore.BL\bin\Release\net8.0\CakaboStore.BL.deps.json
+C:\Users\CASPER\Desktop\CakaboStore\CakaboStore.BL\bin\Release\net8.0\CakaboStore.BL.dll
+C:\Users\CASPER\Desktop\CakaboStore\CakaboStore.BL\bin\Release\net8.0\CakaboStore.BL.pdb
+C:\Users\CASPER\Desktop\CakaboStore\CakaboStore.BL\bin\Release\net8.0\CakaboStore.DAL.dll
+C:\Users\CASPER\Desktop\CakaboStore\CakaboStore.BL\bin\Release\net8.0\CakaboStore.DAL.pdb
+C:\Users\CASPER\Desktop\CakaboStore\CakaboStore.BL\obj\Release\net8.0\CakaboStore.BL.csproj.AssemblyReference.cache
+C:\Users\CASPER\Desktop\CakaboStore\CakaboStore.BL\obj\Release\net8.0\CakaboStore.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CASPER\Desktop\CakaboStore\CakaboStore.BL\obj\Release\net8.0\CakaboStore.BL.AssemblyInfoInputs.cache
+C:\Users\CASPER\Desktop\CakaboStore\CakaboStore.BL\obj\Release\net8.0\CakaboStore.BL.AssemblyInfo.cs
+C:\Users\CASPER\Desktop\CakaboStore\CakaboStore.BL\obj\Release\net8.0\CakaboStore.BL.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\Desktop\CakaboStore\CakaboStore.BL\obj\Release\net8.0\CakaboSt.AB284191.Up2Date
+C:\Users\CASPER\Desktop\CakaboStore\CakaboStore.BL\obj\Release\net8.0\CakaboStore.BL.dll
+C:\Users\CASPER\Desktop\CakaboStore\CakaboStore.BL\obj\Release\net8.0\refint\CakaboStore.BL.dll
+C:\Users\CASPER\Desktop\CakaboStore\CakaboStore.BL\obj\Release\net8.0\CakaboStore.BL.pdb
+C:\Users\CASPER\Desktop\CakaboStore\CakaboStore.BL\obj\Release\net8.0\ref\CakaboStore.BL.dll

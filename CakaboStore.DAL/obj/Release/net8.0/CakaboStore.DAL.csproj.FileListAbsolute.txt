@@ -1,0 +1,14 @@
+C:\Users\CASPER\Desktop\CakaboStore\CakaboStore.DAL\bin\Release\net8.0\CakaboStore.DAL.deps.json
+C:\Users\CASPER\Desktop\CakaboStore\CakaboStore.DAL\bin\Release\net8.0\CakaboStore.DAL.runtimeconfig.json
+C:\Users\CASPER\Desktop\CakaboStore\CakaboStore.DAL\bin\Release\net8.0\CakaboStore.DAL.dll
+C:\Users\CASPER\Desktop\CakaboStore\CakaboStore.DAL\bin\Release\net8.0\CakaboStore.DAL.pdb
+C:\Users\CASPER\Desktop\CakaboStore\CakaboStore.DAL\obj\Release\net8.0\CakaboStore.DAL.csproj.AssemblyReference.cache
+C:\Users\CASPER\Desktop\CakaboStore\CakaboStore.DAL\obj\Release\net8.0\CakaboStore.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CASPER\Desktop\CakaboStore\CakaboStore.DAL\obj\Release\net8.0\CakaboStore.DAL.AssemblyInfoInputs.cache
+C:\Users\CASPER\Desktop\CakaboStore\CakaboStore.DAL\obj\Release\net8.0\CakaboStore.DAL.AssemblyInfo.cs
+C:\Users\CASPER\Desktop\CakaboStore\CakaboStore.DAL\obj\Release\net8.0\CakaboStore.DAL.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\Desktop\CakaboStore\CakaboStore.DAL\obj\Release\net8.0\CakaboStore.DAL.dll
+C:\Users\CASPER\Desktop\CakaboStore\CakaboStore.DAL\obj\Release\net8.0\refint\CakaboStore.DAL.dll
+C:\Users\CASPER\Desktop\CakaboStore\CakaboStore.DAL\obj\Release\net8.0\CakaboStore.DAL.pdb
+C:\Users\CASPER\Desktop\CakaboStore\CakaboStore.DAL\obj\Release\net8.0\CakaboStore.DAL.genruntimeconfig.cache
+C:\Users\CASPER\Desktop\CakaboStore\CakaboStore.DAL\obj\Release\net8.0\ref\CakaboStore.DAL.dll
